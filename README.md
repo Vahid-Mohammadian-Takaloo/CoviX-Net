@@ -1,7 +1,7 @@
 # CoviX-Net
 CoviX-Net: A Deep Learning-based System for Diagnosis and Differentiation of Covid-19 Infection and Pneumonia in Chest Radiography Images.
 
-Vahid Mohammadian Takaloo, Mahdi Hashemzadeh1 & Jalil Ghavidel Neycharan.
+Vahid Mohammadian Takaloo, Mahdi Hashemzadeh & Jalil Ghavidel Neycharan.
 
 Faculty of Information Technology and Computer Engineering.
 
