@@ -4,6 +4,7 @@ CoviX-Net: A Deep Learning-based System for Diagnosis and Differentiation of Cov
 Vahid Mohammadian Takaloo, Mahdi Hashemzadeh & Jalil Ghavidel Neycharan.
 
 Faculty of Information Technology and Computer Engineering, Azarbaijan Shahid Madani University, Tabriz, Iran.
+
 Artificial Intelligence and Machine Learning Research Laboratory, Azarbaijan Shahid Madani University, Tabriz, Iran.
 
 
